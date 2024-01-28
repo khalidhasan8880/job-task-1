@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Beef",
+    "image": "https://www.themealdb.com/images/category/beef.png",
+    "description": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and essential nutrients.",
+    "price": 100
+  },
+  {
+    "id": "2",
+    "name": "Chicken",
+    "image": "https://www.themealdb.com/images/category/chicken.png",
+    "description": "Chicken is the most common type of poultry in the world. It is consumed worldwide for its meat and eggs. Chicken is a good source of lean protein and is low in fat.",
+    "price": 80
+  },
+  {
+    "id": "3",
+    "name": "Seafood",
+    "image": "https://www.themealdb.com/images/category/seafood.png",
+    "description": "Seafood refers to any form of sea life regarded as food by humans. It includes fish, shellfish, and other aquatic animals. Seafood is a rich source of omega-3 fatty acids and various vitamins and minerals.",
+    "price": 120
+  },
+  {
+    "id": "4",
+    "name": "Pork",
+    "image": "https://www.themealdb.com/images/category/pork.png",
+    "description": "Pork is the culinary name for meat from domestic pigs. It is one of the most commonly consumed meats worldwide. Pork is a rich source of high-quality protein and various vitamins and minerals.",
+    "price": 90
+  },
+  {
+    "id": "5",
+    "name": "Vegetables",
+    "image": "https://www.themealdb.com/images/category/vegetables.png",
+    "description": "Vegetables are edible plants or parts of plants that are consumed by humans. They are rich in fiber, vitamins, minerals, and antioxidants. Vegetables are an essential part of a healthy diet.",
+    "price": 60
+  },
+  {
+    "id": "6",
+    "name": "Dessert",
+    "image": "https://www.themealdb.com/images/category/dessert.png",
+    "description": "Dessert is a course that concludes a meal. It typically consists of sweet foods, such as confections, pastries, and fruits. Desserts are a source of enjoyment and indulgence.",
+    "price": 70
+  },
+  {
+    "id": "7",
+    "name": "Soup",
+    "image": "https://www.themealdb.com/images/category/soup.png",
+    "description": "Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients such as meat, vegetables, and liquids. Soup is a comforting and nourishing dish.",
+    "price": 50
+  },
+  {
+    "id": "8",
+    "name": "Pasta",
+    "image": "https://www.themealdb.com/images/category/pasta.png",
+    "description": "Pasta is a type of noodle dish typically made from an unleavened dough of wheat flour, mixed with water or eggs. It is a staple food in many cuisines worldwide.",
+    "price": 75
+  },
+  {
+    "id": "9",
+    "name": "Salad",
+    "image": "https://www.themealdb.com/images/category/salad.png",
+    "description": "Salad is a dish consisting of a mixture of small pieces of food, usually vegetables or fruits. It is typically dressed with a sauce or dressing and can be enjoyed as a main course or side dish.",
+    "price": 65
+  },
+  {
+    "id": "10",
+    "name": "Pizza",
+    "image": "https://www.themealdb.com/images/category/pizza.png",
+    "description": "Pizza is a savory dish of Italian origin. It consists of a round, flattened base of dough topped with various ingredients, such as tomato sauce, cheese, and toppings. Pizza is a popular fast food worldwide.",
+    "price": 85
+  }
+]

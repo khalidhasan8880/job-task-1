@@ -1,0 +1,14 @@
+nav > div> div >a {
+    font-weight: bold;
+text-transform: uppercase;
+}
+main{
+    overflow: hidden;
+}
+body{
+    overflow-x: hidden;
+}
+#side-drawer{
+    transform: translate(333px, 0px);
+    transition: transform 0.3s ease
+}
